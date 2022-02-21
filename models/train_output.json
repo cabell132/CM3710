@@ -1,0 +1,9 @@
+{
+    "labels": [
+        "Bar",
+        "Club",
+        "Outdoor",
+        "Warehouse"
+    ],
+    "model_file": "models\\tagging_model_1"
+}

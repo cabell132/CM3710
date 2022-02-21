@@ -1,0 +1,9 @@
+# numpy files
+
+*.npy
+
+# virtual environment
+.venv
+.venv/
+venv
+venv/
